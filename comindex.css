@@ -15,12 +15,20 @@ body,input {
 }
 
 body{
-    background:url(bg.webp) repeat-x #342c2a;
+    background:url(bg.jpg) repeat-x #342c2a;
     background-size:auto;
     -webkit-animation:Gradient 90s ease infinite;
     -moz-animation:Gradient 90s ease infinite;
     animation:Gradient 90s ease infinite
 }
+
+#analyze{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
+
 @-webkit-keyframes Gradient {
 	0% {
 	background-position:0 50%
