@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdownload"]=self["webpackChunkdownload"]||[]).push([[594],{9224:function(n,u,a){a.r(u),a.d(u,{default:function(){return i}});var e=a(6768);const t={class:"about"},r=(0,e.Lk)("h1",null,"Please Waiting...",-1),o=[r];function s(n,u){return(0,e.uX)(),(0,e.CE)("div",t,o)}var c=a(1241);const l={},d=(0,c.A)(l,[["render",s]]);var i=d}}]);
+//# sourceMappingURL=about.add05204.js.map
